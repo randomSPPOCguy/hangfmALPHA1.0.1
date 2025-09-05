@@ -1,0 +1,7 @@
+node_modules/
+.env
+bot-state.json
+.bot-state.json
+npm-debug.log*
+yarn-error.log*
+.DS_Store

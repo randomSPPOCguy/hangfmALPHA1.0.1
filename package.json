@@ -1,0 +1,18 @@
+{
+  "name": "hangfm-bot",
+  "version": "1.0.1",
+  "description": "Hang.fm room bot with commands, AI callouts, Jirf Poker, and Karens Club Casino (slots).",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "https://github.com/randomSPPOCguy/HangfmBotAlpha1.0.0",
+  "scripts": {
+    "start": "node src/bot.mjs",
+    "diag:join": "node src/scripts/diag-join.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
